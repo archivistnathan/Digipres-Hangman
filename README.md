@@ -8,8 +8,8 @@ ASCII art of computer adapted from [art by Joan Stark](https://www.asciiart.eu/c
 
 ### To run
 
-[!IMPORTANT]
-Make sure [Python 3](https://www.python.org/downloads/) is installed.
+> [!IMPORTANT]
+> Make sure [Python 3](https://www.python.org/downloads/) is installed.
 
 In your terminal, command line, or Python IDE navigate to the folder where digipreshangman.py is kept.
 
